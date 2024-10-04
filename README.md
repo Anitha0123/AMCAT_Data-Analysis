@@ -11,4 +11,4 @@ This analysis breaks down the objectives into two:
 Univariate and Bivariate analysis of variables
 Answers and conclusions to relevant hypothesis or questions.
 
-Head over here to see the detailed step by step analysis using python. For a quick concise report of the results of the data analysis see this report.
+
