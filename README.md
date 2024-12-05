@@ -6,9 +6,4 @@ With this study, the AMCAT team were able to gather concrete data with which the
 
 Following the study conducted in 2015 the AMCAT team were able to gather concrete data with which they hoped to understand what has become of candidates since they took part in the tests and find interesting patterns from the study.
 
-This analysis breaks down the objectives into two:
-
-Univariate and Bivariate analysis of variables
-Answers and conclusions to relevant hypothesis or questions.
-
 
